@@ -14,6 +14,7 @@ bool search(int arr[],int size,int key)
     return 0;
 }
 
+
 int main()
 {
   int key;
